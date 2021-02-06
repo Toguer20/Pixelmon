@@ -1,23 +1,22 @@
-[22:35:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:35:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:35:58] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[22:35:58] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
-[22:35:58] [main/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
-[22:35:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:35:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:36:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:36:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:36:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:36:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:36:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:36:01] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:36:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:36:06] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
-[22:36:06] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+[22:42:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:42:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:42:08] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[22:42:08] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
+[22:42:08] [main/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
+[22:42:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:42:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:42:12] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:42:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:42:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:42:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:42:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:42:14] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:42:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:42:27] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
 java.io.IOException: Controlador no válido
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_271]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_271]
@@ -31,106 +30,105 @@ java.io.IOException: Controlador no válido
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[22:36:06] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:36:07] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:36:07] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:36:08] [Server thread/INFO] [FML]: Config directory created successfully
-[22:36:08] [Server thread/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
-[22:36:10] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
-[22:36:10] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:36:10] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
-[22:36:10] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
-[22:36:11] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:36:11] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[22:36:11] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:36:11] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:36:11] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:36:11] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.1.2
-[22:36:11] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
-[22:36:13] [Server thread/INFO] [Pixelmon]: Checking for migrations..
-[22:36:14] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: AHEAD Target: null
-[22:36:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:36:14] [Server thread/INFO] [Pixelmon]: Loading Advancements
-[22:36:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[22:36:20] [Server thread/INFO] [FML]: Applying holder lookups
-[22:36:20] [Server thread/INFO] [FML]: Holder lookups applied
-[22:36:21] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
-[22:36:21] [Server thread/INFO] [FML]: Applying holder lookups
-[22:36:21] [Server thread/INFO] [FML]: Holder lookups applied
-[22:36:21] [Server thread/INFO] [FML]: Applying holder lookups
-[22:36:21] [Server thread/INFO] [FML]: Holder lookups applied
-[22:36:21] [Server thread/INFO] [FML]: Applying holder lookups
-[22:36:21] [Server thread/INFO] [FML]: Holder lookups applied
-[22:36:21] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:36:21] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:36:21] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
-[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
-[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:36:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:36:22] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[22:36:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:36:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:36:26] [Server thread/INFO] [Pixelmon]: Registering shop items.
-[22:36:26] [Server thread/INFO] [Pixelmon]: Registering NPCs.
-[22:36:26] [Server thread/INFO] [Pixelmon]: Registering structures.
-[22:36:27] [Server thread/INFO] [Pixelmon]: Registering all drops.
-[22:36:28] [Server thread/INFO] [Pixelmon]: Registering battle rules.
-[22:36:28] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
-[22:36:30] [Server thread/INFO] [Pixelmon]: Registering quests.
-[22:36:30] [Server thread/INFO] [Pixelmon]: Loaded 34 Quests.
-[22:36:30] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:36:30] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:36:30] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
-[22:36:33] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
-[22:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[22:36:33] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
-[22:36:35] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 732 advancements
-[22:36:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Unable to find spawn biome
-[22:36:39] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
-[22:36:39] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
-[22:36:39] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
-[22:36:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:36:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
-[22:36:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
-[22:36:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
-[22:36:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
-[22:36:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
-[22:36:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
-[22:36:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
-[22:36:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 30%
-[22:36:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 34%
-[22:36:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
-[22:36:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
-[22:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
-[22:36:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 57%
-[22:36:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 63%
-[22:36:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
-[22:36:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
-[22:36:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
-[22:36:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
-[22:36:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
-[22:36:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
-[22:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (26,237s)! For help, type "help" or "?"
-[22:37:00] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:37:00] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:37:00] [Server thread/INFO] [FML]: Unloading dimension 72
-[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:37:01] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
-[22:37:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4602ms behind, skipping 92 tick(s)
-[22:37:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s)
-[22:38:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[22:38:04] [Server thread/INFO] [FML]: Unloading dimension 0
-[22:38:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:38:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:38:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:42:27] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[22:42:27] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:42:28] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:42:28] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:42:29] [Server thread/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
+[22:42:31] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[22:42:31] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:42:32] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
+[22:42:32] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
+[22:42:33] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:42:34] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[22:42:34] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:42:34] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:42:34] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:42:34] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.1.2
+[22:42:34] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[22:42:38] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: AHEAD Target: null
+[22:42:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:42:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[22:42:39] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[22:42:42] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[22:42:55] [Server thread/INFO] [FML]: Applying holder lookups
+[22:42:55] [Server thread/INFO] [FML]: Holder lookups applied
+[22:42:57] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
+[22:42:57] [Server thread/INFO] [FML]: Applying holder lookups
+[22:42:57] [Server thread/INFO] [FML]: Holder lookups applied
+[22:42:57] [Server thread/INFO] [FML]: Applying holder lookups
+[22:42:58] [Server thread/INFO] [FML]: Holder lookups applied
+[22:42:58] [Server thread/INFO] [FML]: Applying holder lookups
+[22:42:58] [Server thread/INFO] [FML]: Holder lookups applied
+[22:42:58] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:42:58] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:42:58] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[22:43:00] [Server thread/INFO] [FML]: Applying holder lookups
+[22:43:00] [Server thread/INFO] [FML]: Holder lookups applied
+[22:43:00] [Server thread/INFO] [Pixelmon]: Registering shop items.
+[22:43:00] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+[22:43:00] [Server thread/INFO] [Pixelmon]: Registering structures.
+[22:43:01] [Server thread/INFO] [Pixelmon]: Registering all drops.
+[22:43:02] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+[22:43:02] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[22:43:04] [Server thread/INFO] [Pixelmon]: Registering quests.
+[22:43:04] [Server thread/INFO] [Pixelmon]: Loaded 34 Quests.
+[22:43:05] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:43:05] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:43:05] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+[22:43:11] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[22:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:43:12] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:43:15] [Server thread/INFO] [FML]: Applying holder lookups
+[22:43:15] [Server thread/INFO] [FML]: Holder lookups applied
+[22:43:17] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
+[22:43:24] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 732 advancements
+[22:43:24] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
+[22:43:24] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
+[22:43:24] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
+[22:43:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[22:43:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
+[22:43:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
+[22:43:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 63%
+[22:43:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
+[22:43:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (20,400s)! For help, type "help" or "?"
+[22:43:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:43:32] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:43:32] [Server thread/INFO] [FML]: Unloading dimension 72
+[22:44:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2477ms behind, skipping 49 tick(s)
+[22:44:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2093ms behind, skipping 41 tick(s)
+[22:47:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2352ms behind, skipping 47 tick(s)
+[22:54:04] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ertoguer is e5b0208e-07a3-4297-8df8-3cb374af6650
+[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:54:04] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
+[22:54:05] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[22:54:05] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[22:54:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:54:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ertoguer[/127.0.0.1:63651] logged in with entity id 0 at (-405.5, 63.0, -147.5)
+[22:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ertoguer joined the game
+[22:54:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6511ms behind, skipping 130 tick(s)
+[22:54:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2080ms behind, skipping 41 tick(s)
+[22:56:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2362ms behind, skipping 47 tick(s)
+[22:57:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 99e79b6d-a27d-45db-b3de-9abcac093222
+[22:58:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2594ms behind, skipping 51 tick(s)
+[22:58:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ertoguer lost connection: Disconnected
+[22:58:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ertoguer left the game
+[22:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:58:52] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:58:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:58:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:58:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
