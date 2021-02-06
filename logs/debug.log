@@ -1,0 +1,614 @@
+[22:35:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:35:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:35:58] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:35:58] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[22:35:58] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
+[22:35:58] [main/DEBUG] [FML]: Java classpath at launch is:
+[22:35:58] [main/DEBUG] [FML]:     C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\forge-1.12.2-14.23.5.2854.jar
+[22:35:58] [main/DEBUG] [FML]: Java library path at launch is:
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files\Java\jre1.8.0_271\bin
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\Sun\Java\bin
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[22:35:58] [main/DEBUG] [FML]:     C:\Windows\system32
+[22:35:58] [main/DEBUG] [FML]:     C:\Windows
+[22:35:58] [main/DEBUG] [FML]:     C:\Windows\System32\Wbem
+[22:35:58] [main/DEBUG] [FML]:     C:\Windows\System32\WindowsPowerShell\v1.0\
+[22:35:58] [main/DEBUG] [FML]:     C:\Windows\System32\OpenSSH\
+[22:35:58] [main/DEBUG] [FML]:     G:\Program Files (x86)\BaseX\bin
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\System32\Wbem
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\System32\OpenSSH\
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files\MySQL\MySQL Utilities 1.6\
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files\Common Files\Autodesk Shared\
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\System32\Wbem
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[22:35:58] [main/DEBUG] [FML]:     C:\WINDOWS\System32\OpenSSH\
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files\dotnet\
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files\Git\cmd
+[22:35:58] [main/DEBUG] [FML]:     C:\Program Files\MySQL\MySQL Shell 8.0\bin\
+[22:35:58] [main/DEBUG] [FML]:     C:\Users\togue\AppData\Local\Microsoft\WindowsApps
+[22:35:58] [main/DEBUG] [FML]:     C:\Users\togue\AppData\Local\atom\bin
+[22:35:58] [main/DEBUG] [FML]:     C:\Users\togue\AppData\Local\Microsoft\WindowsApps
+[22:35:58] [main/DEBUG] [FML]:     C:\Users\togue\AppData\Local\Programs\Microsoft VS Code\bin
+[22:35:58] [main/DEBUG] [FML]:     C:\Users\togue\AppData\Local\GitHubDesktop\bin
+[22:35:58] [main/DEBUG] [FML]:     C:\Users\togue\.dotnet\tools
+[22:35:58] [main/DEBUG] [FML]:     .
+[22:35:58] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\libraries
+[22:35:58] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods
+[22:35:58] [main/DEBUG] [FML]: Examining file: Pixelmon-1.12.2-8.1.2-universal.jar
+[22:35:58] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[22:35:58] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[22:35:58] [main/DEBUG] [FML]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[22:35:58] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:35:58] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[22:35:58] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[22:35:58] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[22:35:58] [main/DEBUG] [FML]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[22:35:58] [main/DEBUG] [FML]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:35:58] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[22:35:58] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[22:35:58] [main/DEBUG] [FML]: Discovering coremods
+[22:35:58] [main/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
+[22:35:58] [main/DEBUG] [FML]:   Adding Pixelmon-1.12.2-8.1.2-universal.jar to the mod list
+[22:35:58] [main/DEBUG] [FML]: Examining for coremod candidacy Pixelmon-1.12.2-8.1.2-universal.jar
+[22:35:58] [main/DEBUG] [FML]: Not found coremod data in Pixelmon-1.12.2-8.1.2-universal.jar
+[22:35:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:35:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:35:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:35:58] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[22:35:58] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[22:35:58] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[22:35:58] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[22:35:58] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[22:35:58] [main/DEBUG] [FML]: Injection complete
+[22:35:58] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[22:35:58] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[22:36:00] [main/DEBUG] [FML]: Read 1154 binary patches
+[22:36:00] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36076 records
+[22:36:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:36:01] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[22:36:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:36:01] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[22:36:01] [main/DEBUG] [FML]: Injection complete
+[22:36:01] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[22:36:01] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[22:36:01] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[22:36:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:36:01] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[22:36:01] [main/DEBUG] [FML]: Loaded 43 rules from AccessTransformer mod jar file .\mods\Pixelmon-1.12.2-8.1.2-universal.jar!META-INF/pixelmon_at.cfg
+
+[22:36:01] [main/DEBUG] [FML]: Validating minecraft
+[22:36:01] [main/DEBUG] [FML]: Minecraft validated, launching...
+[22:36:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:36:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:36:01] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:36:05] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
+[22:36:05] [main/DEBUG] [FML]: Vanilla freeze snapshot created
+[22:36:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:36:06] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[22:36:06] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_271]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[22:36:06] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:36:07] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:36:07] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:36:08] [Server thread/DEBUG] [FML]: No config directory found, creating one: C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\config
+[22:36:08] [Server thread/INFO] [FML]: Config directory created successfully
+[22:36:08] [Server thread/DEBUG] [FML]: File C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\config\injectedDependencies.json not found. No dependencies injected
+[22:36:08] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[22:36:08] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[22:36:08] [Server thread/DEBUG] [FML]: Minecraft is a file at C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\forge-1.12.2-14.23.5.2854.jar, loading
+[22:36:08] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[22:36:08] [Server thread/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
+[22:36:08] [Server thread/DEBUG] [FML]:   Adding Pixelmon-1.12.2-8.1.2-universal.jar to the mod list
+[22:36:08] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Pixelmon-1.12.2-8.1.2-universal.jar
+[22:36:08] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.5.2854.jar for potential mods
+[22:36:08] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.5.2854.jar appears to be missing an mcmod.info file
+[22:36:09] [Server thread/DEBUG] [FML]: Examining file Pixelmon-1.12.2-8.1.2-universal.jar for potential mods
+[22:36:09] [Server thread/TRACE] [FML]: Located mcmod.info file in file Pixelmon-1.12.2-8.1.2-universal.jar
+[22:36:09] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.pixelmonmod.pixelmon.Pixelmon) - loading
+[22:36:09] [Server thread/TRACE] [FML]: Parsed dependency info for pixelmon: Requirements: [] After:[] Before:[]
+[22:36:10] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[22:36:10] [Server thread/TRACE] [FML]: Received a system property request ''
+[22:36:10] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
+[22:36:10] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[22:36:10] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:36:10] [Server thread/DEBUG] [FML]: Enabling mod pixelmon
+[22:36:10] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[22:36:10] [Server thread/TRACE] [FML]: All mod requirements are satisfied
+[22:36:10] [Server thread/TRACE] [FML]: Sorting mods into an ordered list
+[22:36:10] [Server thread/TRACE] [FML]: Mod sorting completed successfully
+[22:36:10] [Server thread/DEBUG] [FML]: Mod sorting data
+[22:36:10] [Server thread/DEBUG] [FML]: 	pixelmon(Pixelmon:8.1.2): Pixelmon-1.12.2-8.1.2-universal.jar ()
+[22:36:10] [Server thread/DEBUG] [FML]: Loading @Config anotation data
+[22:36:10] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod minecraft
+[22:36:10] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod minecraft
+[22:36:10] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft took 0,006s
+[22:36:10] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcp
+[22:36:10] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcp
+[22:36:10] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Coder Pack took 0,002s
+[22:36:10] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod FML
+[22:36:10] [Server thread/TRACE] [FML]: Mod FML is using network checker : Invoking method checkModLists
+[22:36:10] [Server thread/TRACE] [FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[22:36:10] [Server thread/TRACE] [FML]: The mod FML accepts its own version (8.0.99.99)
+[22:36:10] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
+[22:36:10] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
+[22:36:11] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 0,911s
+[22:36:11] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forge
+[22:36:11] [Server thread/DEBUG] [forge]: Loading Vanilla annotations: null
+[22:36:11] [Server thread/DEBUG] [forge]: Preloading CrashReport Classes
+[22:36:11] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
+[22:36:11] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[22:36:11] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
+[22:36:11] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
+[22:36:11] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[22:36:11] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[22:36:11] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[22:36:11] [Server thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
+[22:36:11] [Server thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
+[22:36:11] [Server thread/TRACE] [FML]: The mod forge accepts its own version (14.23.5.2854)
+[22:36:11] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
+[22:36:11] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forge
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0,043s
+[22:36:11] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod pixelmon
+[22:36:11] [Server thread/TRACE] [FML]: Mod pixelmon is using network checker : Accepting version 8.1.2
+[22:36:11] [Server thread/TRACE] [FML]: Testing mod pixelmon to verify it accepts its own version in a remote connection
+[22:36:11] [Server thread/TRACE] [FML]: The mod pixelmon accepts its own version (8.1.2)
+[22:36:11] [Server thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into pixelmon
+[22:36:11] [Server thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for pixelmon
+[22:36:11] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.config.RegistryListener for mod pixelmon
+[22:36:11] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.config.RegistryListener
+[22:36:11] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.listener.ZygardeCellsListener for mod pixelmon
+[22:36:11] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.listener.ZygardeCellsListener
+[22:36:11] [Server thread/DEBUG] [FML]: Registering @EventBusSubscriber for com.pixelmonmod.pixelmon.storage.extras.PixelExtrasStorage for mod pixelmon
+[22:36:11] [Server thread/DEBUG] [FML]: Injected @EventBusSubscriber class com.pixelmonmod.pixelmon.storage.extras.PixelExtrasStorage
+[22:36:11] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into pixelmon for type INSTANCE
+[22:36:11] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod pixelmon
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Step: Construction - Pixelmon took 0,169s
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Finished: Construction took 1,131s
+[22:36:11] [Server thread/DEBUG] [FML]: Mod signature data
+[22:36:11] [Server thread/DEBUG] [FML]:  	Valid Signatures:
+[22:36:11] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.2-14.23.5.2854.jar
+[22:36:11] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.23.5.2854)	forge-1.12.2-14.23.5.2854.jar
+[22:36:11] [Server thread/DEBUG] [FML]:  	Missing Signatures:
+[22:36:11] [Server thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
+[22:36:11] [Server thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
+[22:36:11] [Server thread/DEBUG] [FML]: 		pixelmon	(Pixelmon	8.1.2)	Pixelmon-1.12.2-8.1.2-universal.jar
+[22:36:11] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:36:11] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[22:36:11] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:36:11] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:36:11] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod minecraft
+[22:36:11] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod minecraft
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0,001s
+[22:36:11] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mcp
+[22:36:11] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mcp
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0,001s
+[22:36:11] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
+[22:36:11] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0,000s
+[22:36:11] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forge
+[22:36:11] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:36:11] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forge
+[22:36:11] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0,102s
+[22:36:11] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod pixelmon
+[22:36:11] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.1.2
+[22:36:11] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[22:36:13] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[22:36:14] [Forge Version Check/DEBUG] [forge.VersionCheck]: [pixelmon] Received version check data:
+{
+  "homepage": "https://reforged.gg/",
+  "1.12.2": {
+    "6.0.0": "Released Reforged", 
+    "6.0.1": "Bug fix update.",
+    "6.2.0": "The Power Update",
+    "6.2.1": "Bug fix update",
+    "6.2.2": "Performace update",
+    "6.2.3": "The toaster performance update",
+    "6.3.0": "The Legendary Update",
+    "6.3.1": "Bug fix update",
+	"6.3.2": "Bug fix update",
+	"6.3.3": "Bug fix update",
+	"6.3.4": "Hotfix update",
+	"7.0.0": "Generation 7 update",
+	"7.0.1": "Bug fix update",
+	"7.0.2": "Bug fix update",
+	"7.0.3": "Crash fix",
+	"7.0.4": "Bug fix update",
+	"7.0.5": "They're no longer bugs. All hail Buzzwole.",
+	"7.0.6": "Two words: Legendary apocalypse",
+    "7.0.7": "Now with... Smart phones?",
+    "7.0.8": "A few more fixes before 7.1!",
+    "7.1.0": "The Integration Update",
+    "7.3.0": "Bye-Bye Pixelmon 7",
+    "7.3.1": "Bye-Bye Pixelmon 7",
+    "8.0.0": "Generation 8",
+    "8.0.2": "Generation 8",
+    "8.1.0": "A Sweet Update",
+    "8.1.1": "A Sweet Update",
+    "8.1.2": "A Sweet Update"
+  },
+  "promos": {
+    "1.12.2-latest": "8.0.0",
+    "1.12.2-recommended": "8.0.0"
+  }
+}
+[22:36:14] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: AHEAD Target: null
+[22:36:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:36:14] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[22:36:14] [Forge Version Check/DEBUG] [forge.VersionCheck]: [forge] Received version check data:
+{
+  "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
+  "promos": {
+    "1.1-latest": "1.3.2.6",
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2511",
+    "1.10.2-recommended": "12.18.3.2185",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.1.2588",
+    "1.11.2-recommended": "13.20.1.2386",
+    "1.12-latest": "14.21.1.2443",
+    "1.12-recommended": "14.21.1.2387",
+    "1.12.1-latest": "14.22.1.2485",
+    "1.12.1-recommended": "14.22.1.2478",
+    "1.12.2-latest": "14.23.5.2854",
+    "1.12.2-recommended": "14.23.5.2854",
+    "1.13.2-latest": "25.0.219",
+    "1.14.2-latest": "26.0.63",
+    "1.14.3-latest": "27.0.60",
+    "1.14.4-latest": "28.2.23",
+    "1.14.4-recommended": "28.2.0",
+    "1.15-latest": "29.0.4",
+    "1.15.1-latest": "30.0.51",
+    "1.15.2-latest": "31.2.47",
+    "1.15.2-recommended": "31.2.0",
+    "1.16.1-latest": "32.0.108",
+    "1.16.2-latest": "33.0.61",
+    "1.16.3-latest": "34.1.42",
+    "1.16.3-recommended": "34.1.0",
+    "1.16.4-latest": "35.1.37",
+    "1.16.4-recommended": "35.1.4",
+    "1.16.5-latest": "36.0.14",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.737",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-latest-1.7.10": "10.13.2.1343",
+    "1.7.10-recommended": "10.13.4.1558",
+    "1.7.2-latest": "10.12.2.1147",
+    "1.7.2-recommended": "10.12.2.1121",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.2318",
+    "1.8.9-recommended": "11.15.1.1722",
+    "1.9-latest": "12.16.0.1942",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2051",
+    "1.9.4-recommended": "12.17.0.1976",
+    "latest-1.7.10": "10.13.2.1343"
+  }
+}
+[22:36:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[22:36:18] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod pixelmon
+[22:36:18] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Pixelmon took 7,022s
+[22:36:18] [Server thread/DEBUG] [FML]: Bar Finished: PreInitialization took 7,125s
+[22:36:20] [Server thread/INFO] [FML]: Applying holder lookups
+[22:36:20] [Server thread/INFO] [FML]: Holder lookups applied
+[22:36:21] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
+[22:36:21] [Server thread/INFO] [FML]: Applying holder lookups
+[22:36:21] [Server thread/INFO] [FML]: Holder lookups applied
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Trainer as pixelmon:npc_trainer
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Trader as pixelmon:npc_trader
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Pixelmon as pixelmon:pixelmon
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Statue as pixelmon:statue
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity ChattingNPC as pixelmon:npc_chatting
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity QuestGiverNPC as pixelmon:npc_questgiver
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Relearner as pixelmon:npc_relearner
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Tutor as pixelmon:npc_tutor
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Pokeball as pixelmon:empty_pokeball
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Hook as pixelmon:hook
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity EntityChairMount as pixelmon:chair_mount
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity NurseJoy as pixelmon:npc_nursejoy
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Shopkeeper as pixelmon:npc_shopkeeper
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity PixelmonPainting as pixelmon:painting
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity OccupiedPokeball as pixelmon:occupied_pokeball
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Wormhole as pixelmon:ultra_wormhole
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Breeding as pixelmon:breeding
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity Bike as pixelmon:bike
+[22:36:21] [Server thread/TRACE] [FML]: Automatically registered mod pixelmon entity OldFisherman as pixelmon:npc_oldfisherman
+[22:36:21] [Server thread/INFO] [FML]: Applying holder lookups
+[22:36:21] [Server thread/INFO] [FML]: Holder lookups applied
+[22:36:21] [Server thread/INFO] [FML]: Applying holder lookups
+[22:36:21] [Server thread/INFO] [FML]: Holder lookups applied
+[22:36:21] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:36:21] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:36:21] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
+[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
+[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:36:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:36:22] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[22:36:25] [Server thread/INFO] [FML]: Applying holder lookups
+[22:36:25] [Server thread/INFO] [FML]: Holder lookups applied
+[22:36:25] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod minecraft
+[22:36:25] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod minecraft
+[22:36:25] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft took 0,000s
+[22:36:25] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod mcp
+[22:36:25] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod mcp
+[22:36:25] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Coder Pack took 0,000s
+[22:36:25] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod FML
+[22:36:25] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod FML
+[22:36:25] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Forge Mod Loader took 0,001s
+[22:36:25] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod forge
+[22:36:25] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod forge
+[22:36:25] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Forge took 0,001s
+[22:36:25] [Server thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod pixelmon
+[22:36:26] [Server thread/INFO] [Pixelmon]: Registering shop items.
+[22:36:26] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+[22:36:26] [Server thread/INFO] [Pixelmon]: Registering structures.
+[22:36:27] [Server thread/INFO] [Pixelmon]: Registering all drops.
+[22:36:28] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+[22:36:28] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[22:36:30] [Server thread/INFO] [Pixelmon]: Registering quests.
+[22:36:30] [Server thread/INFO] [Pixelmon]: Loaded 34 Quests.
+[22:36:30] [Server thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod pixelmon
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: Initialization - Pixelmon took 5,251s
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Finished: Initialization took 5,254s
+[22:36:30] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod minecraft
+[22:36:30] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod minecraft
+[22:36:30] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod minecraft
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft took 0,005s
+[22:36:30] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod mcp
+[22:36:30] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod mcp
+[22:36:30] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod mcp
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0,000s
+[22:36:30] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod FML
+[22:36:30] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod FML
+[22:36:30] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod FML
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0,000s
+[22:36:30] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod forge
+[22:36:30] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod forge
+[22:36:30] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod forge
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Forge took 0,000s
+[22:36:30] [Server thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod pixelmon
+[22:36:30] [Server thread/TRACE] [FML]: Sending event IMCEvent to mod pixelmon
+[22:36:30] [Server thread/TRACE] [FML]: Sent event IMCEvent to mod pixelmon
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Pixelmon took 0,000s
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Finished: InterModComms$IMC took 0,006s
+[22:36:30] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:36:30] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:36:30] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod minecraft
+[22:36:30] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod minecraft
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft took 0,000s
+[22:36:30] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod mcp
+[22:36:30] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod mcp
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Coder Pack took 0,001s
+[22:36:30] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod FML
+[22:36:30] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod FML
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Forge Mod Loader took 0,001s
+[22:36:30] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod forge
+[22:36:30] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod forge
+[22:36:30] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Forge took 0,004s
+[22:36:30] [Server thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod pixelmon
+[22:36:30] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod pixelmon
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: PostInitialization - Pixelmon took 2,080s
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Finished: PostInitialization took 2,086s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod minecraft
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod minecraft
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod mcp
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod mcp
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Coder Pack took 0,001s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod FML
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod FML
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Forge Mod Loader took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod forge
+[22:36:33] [Server thread/DEBUG] [FML]: Forge RecipeSorter Baking:
+[22:36:33] [Server thread/DEBUG] [FML]:   16: RecipeEntry("Before", UNKNOWN, )
+[22:36:33] [Server thread/DEBUG] [FML]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[22:36:33] [Server thread/DEBUG] [FML]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[22:36:33] [Server thread/DEBUG] [FML]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[22:36:33] [Server thread/DEBUG] [FML]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[22:36:33] [Server thread/DEBUG] [FML]:   1: RecipeEntry("After", UNKNOWN, )
+[22:36:33] [Server thread/DEBUG] [FML]: Sorting recipes
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod forge
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Forge took 0,011s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod pixelmon
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod pixelmon
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: LoadComplete - Pixelmon took 0,000s
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Finished: LoadComplete took 0,013s
+[22:36:33] [Server thread/DEBUG] [FML]: Freezing registries
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod minecraft
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod minecraft
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft took 0,001s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mcp
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mcp
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod FML
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod FML
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Forge Mod Loader took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod forge
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod forge
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Forge took 0,475s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod pixelmon
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod pixelmon
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Pixelmon took 0,000s
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Finished: ModIdMapping took 0,477s
+[22:36:33] [Server thread/DEBUG] [FML]: All registries frozen
+[22:36:33] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod minecraft
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod minecraft
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod mcp
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod mcp
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod forge
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod forge
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Minecraft Forge took 0,000s
+[22:36:33] [Server thread/TRACE] [FML]: Sending event FMLServerAboutToStartEvent to mod pixelmon
+[22:36:33] [Server thread/TRACE] [FML]: Sent event FMLServerAboutToStartEvent to mod pixelmon
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Step: ServerAboutToStart - Pixelmon took 0,017s
+[22:36:33] [Server thread/DEBUG] [FML]: Bar Finished: ServerAboutToStart took 0,018s
+[22:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:36:33] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
+[22:36:35] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 732 advancements
+[22:36:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Unable to find spawn biome
+[22:36:39] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
+[22:36:39] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
+[22:36:39] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@116f9e0a)
+[22:36:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:36:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
+[22:36:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[22:36:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[22:36:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[22:36:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[22:36:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
+[22:36:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
+[22:36:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 30%
+[22:36:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 34%
+[22:36:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[22:36:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[22:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
+[22:36:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 57%
+[22:36:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 63%
+[22:36:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[22:36:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[22:36:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[22:36:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
+[22:36:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
+[22:36:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
+[22:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (26,237s)! For help, type "help" or "?"
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod minecraft
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod minecraft
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft took 0,000s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod mcp
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod mcp
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Coder Pack took 0,000s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod FML
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod FML
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Forge Mod Loader took 0,000s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod forge
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod forge
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Forge took 0,035s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod pixelmon
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod pixelmon
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Pixelmon took 0,055s
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarting took 0,091s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod minecraft
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod minecraft
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft took 0,000s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod mcp
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod mcp
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Coder Pack took 0,000s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod FML
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod FML
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Forge Mod Loader took 0,000s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod forge
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod forge
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Forge took 0,000s
+[22:36:59] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod pixelmon
+[22:36:59] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod pixelmon
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Pixelmon took 0,000s
+[22:36:59] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarted took 0,001s
+[22:36:59] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[22:36:59] [Server thread/DEBUG] [FML]: Queueing dimension 1 to unload
+[22:36:59] [Server thread/DEBUG] [FML]: Queueing dimension 72 to unload
+[22:37:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:37:00] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:37:00] [Server thread/INFO] [FML]: Unloading dimension 72
+[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:37:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[22:37:01] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
+[22:37:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4602ms behind, skipping 92 tick(s)
+[22:37:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2020ms behind, skipping 40 tick(s)
+[22:38:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod pixelmon
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod pixelmon
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Pixelmon took 0,000s
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0,001s
+[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:38:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:38:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:04] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0,000s
+[22:38:04] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod pixelmon
+[22:38:04] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod pixelmon
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Pixelmon took 0,000s
+[22:38:04] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0,001s
+[22:38:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:38:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:38:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
