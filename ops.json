@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "830e676b-8b1a-3c67-82de-6353b16c7c0f",
+    "name": "ertoguer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2021-02-07 18:29:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "mesa": "2021-02-07 18:08:32 +0100",
+      "river": "2021-02-07 18:07:31 +0100"
+    },
+    "done": false
+  }
+}
