@@ -1,22 +1,21 @@
-[22:42:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:42:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:42:08] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[22:42:08] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
-[22:42:08] [main/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
-[22:42:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:42:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:42:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:42:12] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:42:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:42:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:42:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:42:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:42:14] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:42:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:42:27] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+[14:23:06] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:23:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:23:06] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[14:23:06] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
+[14:23:07] [main/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
+[14:23:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:23:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:23:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:23:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:23:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:23:09] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:23:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:23:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:23:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:23:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:23:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[14:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[14:23:16] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
 java.io.IOException: Controlador no válido
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_271]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_271]
@@ -30,105 +29,424 @@ java.io.IOException: Controlador no válido
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_271]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[22:42:27] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
-[22:42:27] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:42:28] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:42:28] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:42:29] [Server thread/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
-[22:42:31] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
-[22:42:31] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:42:32] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
-[22:42:32] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
-[22:42:33] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:42:34] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[22:42:34] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:42:34] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:42:34] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:42:34] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.1.2
-[22:42:34] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
-[22:42:38] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: AHEAD Target: null
-[22:42:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:42:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[22:42:39] [Server thread/INFO] [Pixelmon]: Checking for migrations..
-[22:42:42] [Server thread/INFO] [Pixelmon]: Loading Advancements
-[22:42:55] [Server thread/INFO] [FML]: Applying holder lookups
-[22:42:55] [Server thread/INFO] [FML]: Holder lookups applied
-[22:42:57] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
-[22:42:57] [Server thread/INFO] [FML]: Applying holder lookups
-[22:42:57] [Server thread/INFO] [FML]: Holder lookups applied
-[22:42:57] [Server thread/INFO] [FML]: Applying holder lookups
-[22:42:58] [Server thread/INFO] [FML]: Holder lookups applied
-[22:42:58] [Server thread/INFO] [FML]: Applying holder lookups
-[22:42:58] [Server thread/INFO] [FML]: Holder lookups applied
-[22:42:58] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:42:58] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:42:58] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[22:43:00] [Server thread/INFO] [FML]: Applying holder lookups
-[22:43:00] [Server thread/INFO] [FML]: Holder lookups applied
-[22:43:00] [Server thread/INFO] [Pixelmon]: Registering shop items.
-[22:43:00] [Server thread/INFO] [Pixelmon]: Registering NPCs.
-[22:43:00] [Server thread/INFO] [Pixelmon]: Registering structures.
-[22:43:01] [Server thread/INFO] [Pixelmon]: Registering all drops.
-[22:43:02] [Server thread/INFO] [Pixelmon]: Registering battle rules.
-[22:43:02] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
-[22:43:04] [Server thread/INFO] [Pixelmon]: Registering quests.
-[22:43:04] [Server thread/INFO] [Pixelmon]: Loaded 34 Quests.
-[22:43:05] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:43:05] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:43:05] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
-[22:43:11] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
-[22:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[22:43:12] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[22:43:15] [Server thread/INFO] [FML]: Applying holder lookups
-[22:43:15] [Server thread/INFO] [FML]: Holder lookups applied
-[22:43:17] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
-[22:43:24] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 732 advancements
-[22:43:24] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
-[22:43:24] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
-[22:43:24] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@207f2c68)
-[22:43:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:43:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
-[22:43:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
-[22:43:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
-[22:43:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 63%
-[22:43:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
-[22:43:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (20,400s)! For help, type "help" or "?"
-[22:43:32] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:43:32] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:43:32] [Server thread/INFO] [FML]: Unloading dimension 72
-[22:44:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2477ms behind, skipping 49 tick(s)
-[22:44:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2093ms behind, skipping 41 tick(s)
-[22:47:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2352ms behind, skipping 47 tick(s)
-[22:54:04] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ertoguer is e5b0208e-07a3-4297-8df8-3cb374af6650
-[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:54:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[22:54:04] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
-[22:54:05] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[22:54:05] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
-[22:54:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:54:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ertoguer[/127.0.0.1:63651] logged in with entity id 0 at (-405.5, 63.0, -147.5)
-[22:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ertoguer joined the game
-[22:54:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6511ms behind, skipping 130 tick(s)
-[22:54:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2080ms behind, skipping 41 tick(s)
-[22:56:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2362ms behind, skipping 47 tick(s)
-[22:57:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 99e79b6d-a27d-45db-b3de-9abcac093222
-[22:58:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2594ms behind, skipping 51 tick(s)
-[22:58:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ertoguer lost connection: Disconnected
-[22:58:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ertoguer left the game
-[22:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:58:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[22:58:52] [Server thread/INFO] [FML]: Unloading dimension 0
-[22:58:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:58:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:58:52] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[14:23:16] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[14:23:16] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:23:17] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:23:17] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[14:23:18] [Server thread/INFO] [FML]: Searching C:\Users\togue\OneDrive\Escritorio\Pixelmon\Pixelmon\.\mods for mods
+[14:23:19] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[14:23:19] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[14:23:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
+[14:23:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
+[14:23:21] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[14:23:21] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[14:23:21] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[14:23:21] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[14:23:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[14:23:21] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.1.2
+[14:23:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:23:22] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[14:23:22] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[14:23:23] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[14:23:23] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[14:23:23] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: AHEAD Target: null
+[14:23:28] [Server thread/INFO] [FML]: Applying holder lookups
+[14:23:28] [Server thread/INFO] [FML]: Holder lookups applied
+[14:23:28] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
+[14:23:29] [Server thread/INFO] [FML]: Applying holder lookups
+[14:23:29] [Server thread/INFO] [FML]: Holder lookups applied
+[14:23:29] [Server thread/INFO] [FML]: Applying holder lookups
+[14:23:29] [Server thread/INFO] [FML]: Holder lookups applied
+[14:23:29] [Server thread/INFO] [FML]: Applying holder lookups
+[14:23:29] [Server thread/INFO] [FML]: Holder lookups applied
+[14:23:29] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:23:29] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[14:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[14:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[14:23:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[14:23:29] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[14:23:30] [Server thread/INFO] [FML]: Applying holder lookups
+[14:23:30] [Server thread/INFO] [FML]: Holder lookups applied
+[14:23:31] [Server thread/INFO] [Pixelmon]: Registering shop items.
+[14:23:31] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+[14:23:31] [Server thread/INFO] [Pixelmon]: Registering structures.
+[14:23:31] [Server thread/INFO] [Pixelmon]: Registering all drops.
+[14:23:32] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+[14:23:33] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[14:23:34] [Server thread/INFO] [Pixelmon]: Registering quests.
+[14:23:34] [Server thread/INFO] [Pixelmon]: Loaded 34 Quests.
+[14:23:35] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:23:35] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:23:35] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+[14:23:37] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[14:23:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[14:23:37] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[14:23:39] [Server thread/INFO] [FML]: Applying holder lookups
+[14:23:39] [Server thread/INFO] [FML]: Holder lookups applied
+[14:23:39] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@676d8902)
+[14:23:40] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 732 advancements
+[14:23:40] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@676d8902)
+[14:23:40] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@676d8902)
+[14:23:40] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@676d8902)
+[14:23:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[14:23:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[14:23:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 17%
+[14:23:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 66%
+[14:23:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (6,949s)! For help, type "help" or "?"
+[14:23:45] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:23:45] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:23:45] [Server thread/INFO] [FML]: Unloading dimension 72
+[14:33:03] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Rodrimin8 is 605b2e2d-7eac-4ffc-b55e-dc0cf0949e8e
+[14:33:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[14:33:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[14:33:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[14:33:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[14:33:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[14:33:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[14:33:03] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
+[14:33:04] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[14:33:04] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[14:33:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:33:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Rodrimin8[/83.38.51.153:63836] logged in with entity id 0 at (-401.5, 62.0, -145.5)
+[14:33:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 joined the game
+[14:33:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 drowned
+[14:36:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[14:44:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 has made the advancement [Acquire Hardware]
+[14:51:06] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player eriikesp is 62f3be13-1277-4358-b166-3a1e9652fe78
+[14:51:06] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[14:51:06] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[14:51:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:51:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: eriikesp[/95.169.237.54:38836] logged in with entity id 989 at (-398.5, 72.0, -144.5)
+[14:51:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp joined the game
+[14:52:02] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-76, -37] in dimension 0 (overworld) while populating chunk [-75, -37], causing cascading worldgen lag.
+[14:52:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 fell from a high place
+[14:53:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[14:55:11] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, -47] in dimension 0 (overworld) while populating chunk [7, -47], causing cascading worldgen lag.
+[14:55:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:55:11] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, -47] in dimension 0 (overworld) while populating chunk [8, -47], causing cascading worldgen lag.
+[14:55:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:55:11] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, -48] in dimension 0 (overworld) while populating chunk [7, -47], causing cascading worldgen lag.
+[14:55:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:55:11] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, -48] in dimension 0 (overworld) while populating chunk [8, -48], causing cascading worldgen lag.
+[14:55:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:55:11] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [11, -47] in dimension 0 (overworld) while populating chunk [10, -47], causing cascading worldgen lag.
+[14:55:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:55:14] [Server thread/INFO] [Pixelmon]: Gym spawned at 160 68 -739
+[14:55:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rodrimin8 moved too quickly! -2.0058778381810427,0.0,-9.968794353399062
+[14:55:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3022ms behind, skipping 60 tick(s)
+[14:57:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[14:58:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3582ms behind, skipping 71 tick(s)
+[14:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 has made the advancement [Sweet dreams]
+[14:59:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[14:59:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:01:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Sweet dreams]
+[15:01:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:02:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:02:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Only took me four tries *Fist pump*]
+[15:02:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:02:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:03:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:03:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:04:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:04:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:04:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:04:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:05:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 has made the advancement [Only took me four tries *Fist pump*]
+[15:05:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:05:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:06:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:06:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:07:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:07:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:07:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:07:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:07:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:08:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:08:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:08:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:08:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:09:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:10:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:10:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:10:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:10:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:11:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:11:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:12:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:13:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:13:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:13:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:13:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:13:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:14:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:14:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:14:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:14:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:14:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:15:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:16:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:16:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:16:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:16:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:17:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:17:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:17:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:18:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:18:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:18:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:19:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:20:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:20:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:21:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:21:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:21:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:21:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eriikesp lost connection: Disconnected
+[15:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp left the game
+[15:23:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:24:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:24:36] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player eriikesp is 62f3be13-1277-4358-b166-3a1e9652fe78
+[15:24:36] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[15:24:36] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[15:24:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:24:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: eriikesp[/95.169.237.54:38977] logged in with entity id 3712 at (172.9776856528781, 69.0, -674.3069943536124)
+[15:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp joined the game
+[15:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [You picked a starter!]
+[15:24:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:25:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:25:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:26:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [A Seedy Place]
+[15:26:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:27:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:27:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:27:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 has made the advancement [A Seedy Place]
+[15:27:46] [Netty Server IO #6/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_271]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_271]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[PooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[15:27:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eriikesp lost connection: Internal Exception: java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+[15:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp left the game
+[15:28:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:29:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:29:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:30:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:31:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:31:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:31:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:32:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:32:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:32:57] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player eriikesp is 62f3be13-1277-4358-b166-3a1e9652fe78
+[15:32:57] [Netty Server IO #0/INFO] [FML]: Client protocol version 2
+[15:32:57] [Netty Server IO #0/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[15:32:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:32:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: eriikesp[/95.169.237.54:39651] logged in with entity id 4211 at (100.80033038623887, 69.0, -734.0433978857733)
+[15:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp joined the game
+[15:33:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:33:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:33:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:34:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:34:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:34:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:34:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:34:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:35:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:35:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:35:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:35:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:35:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:35:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:36:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:36:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:36:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:37:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:37:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:37:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:38:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:38:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:38:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rodrimin8 was kicked for floating too long!
+[15:38:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Rodrimin8 lost connection: Flying is not enabled on this server
+[15:38:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 left the game
+[15:38:15] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Rodrimin8 is 605b2e2d-7eac-4ffc-b55e-dc0cf0949e8e
+[15:38:15] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[15:38:15] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[15:38:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:38:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Rodrimin8[/83.38.51.153:64373] logged in with entity id 4558 at (192.1220548169906, 75.00133597911214, -717.3763849243326)
+[15:38:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 joined the game
+[15:38:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 has made the advancement [You picked a starter!]
+[15:38:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:38:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:38:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:39:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:39:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:39:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:39:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:39:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:39:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:40:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:40:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:41:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:41:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:42:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:42:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:42:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:42:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:42:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:43:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:43:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:43:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:44:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:44:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:44:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:44:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:45:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:45:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:45:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:46:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:46:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Rodrimin8 was kicked for floating too long!
+[15:46:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Rodrimin8 lost connection: Flying is not enabled on this server
+[15:46:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 left the game
+[15:46:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:46:05] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Rodrimin8 is 605b2e2d-7eac-4ffc-b55e-dc0cf0949e8e
+[15:46:06] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[15:46:06] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[15:46:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:46:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Rodrimin8[/83.38.51.153:64433] logged in with entity id 5041 at (187.04016113508874, 81.16610926093821, -729.7700794173982)
+[15:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 joined the game
+[15:46:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:46:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:46:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:47:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:48:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:48:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:48:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:49:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Stone Age]
+[15:49:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Getting an Upgrade]
+[15:50:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:50:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:50:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:51:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:51:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 has made the advancement [It's a Mystery!]
+[15:51:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 has made the advancement [Three to get Ready]
+[15:51:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:51:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:52:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:52:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:53:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:54:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:54:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 5cce6968-3311-48df-8714-99f06f0d6c62
+[15:56:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:56:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:57:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:57:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID fff9745f-4b24-4562-b59d-fde9dc9a542b
+[15:57:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:58:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:58:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: eriikesp was kicked for floating too long!
+[15:58:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eriikesp lost connection: Flying is not enabled on this server
+[15:58:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp left the game
+[15:58:46] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player eriikesp is 62f3be13-1277-4358-b166-3a1e9652fe78
+[15:58:46] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[15:58:46] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42,pixelmon@8.1.2
+[15:58:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:58:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: eriikesp[/95.169.237.54:38865] logged in with entity id 5933 at (137.09709349779519, 70.16610926093821, -708.3998960570622)
+[15:58:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp joined the game
+[15:58:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:59:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Rodrimin8 lost connection: Disconnected
+[15:59:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Rodrimin8 left the game
+[15:59:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:59:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[15:59:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:01:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:02:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [It's a Mystery!]
+[16:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Well, it’s One for the Money]
+[16:09:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:11:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[16:12:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[16:14:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:17:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Nose to the Grindstone]
+[16:18:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:18:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:19:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:20:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:22:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:23:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:27:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:27:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:29:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:29:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:30:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[16:35:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Acquire Hardware]
+[16:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Isn't It Iron Pick]
+[16:38:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[16:48:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[16:50:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[16:53:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[16:56:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:00:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:00:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:00:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:04:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:05:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:06:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:08:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:08:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:08:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:13:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:14:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:16:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:17:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:18:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] te informo de que cuando acabe los deberes tendre que pasarle el server a judith asi que estara cerrado un rato
+[17:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> me ha despawneado un mega swampert shiny
+[17:19:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> gg
+[17:19:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[17:19:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] lol, ahora solo falta que lo puedas capturar crack
+[17:19:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> pero bueno, que tampoco estoy haciendo mucho, estoy mirando como funciona, me hubiera partido la cara probablemente
+[17:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> pa jugar jugar quiero jugar cuando estemos tos
+[17:20:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:20:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] valep
+[17:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] yo la verdad es que ni idea de como va el mod eh
+[17:21:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:22:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> btw
+[17:22:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:23:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> sobre que hora mas o menos calculas que estareis disponibols
+[17:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] espero no tardar mas de 15 minutos con lo que estoy haciendo, luego llamare a judith para mover el server y tampoco deberiamos tardar mucho con eso, si no da problemas claro
+[17:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> ah hostia pensaba que seria de aqui a horas
+[17:24:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> vale vale perfe entonces
+[17:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> pa jugar todos mas que na
+[17:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <eriikesp> estoy viendo y han cambiado cosillas
+[17:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] yo es que no c ni como era antes xD
+[17:25:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 82155bb2-cd31-4d39-8056-9c7a266c3e7e
+[17:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp has made the advancement [Three to get Ready]
+[17:26:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:31:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:31:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 920945f2-481e-422a-a3b7-f46a911ae5ac
+[17:35:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: eriikesp lost connection: Disconnected
+[17:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: eriikesp left the game
+[17:42:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[17:42:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:42:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:42:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:42:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[17:42:28] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:42:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:42:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:42:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
