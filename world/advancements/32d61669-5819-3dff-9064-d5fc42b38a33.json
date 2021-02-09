@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/healer": {
+    "criteria": {
+      "has_aluminium_plate": "2021-02-08 18:58:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-07 20:52:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2021-02-09 02:40:01 +0100"
     },
     "done": true
   },
@@ -38,6 +50,12 @@
   "pixelmon:recipes/decorative/pink_rug": {
     "criteria": {
       "has_wool": "2021-02-07 21:46:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-02-09 02:38:33 +0100"
     },
     "done": true
   },
@@ -228,6 +246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-02-08 20:39:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2021-02-07 20:58:04 +0100"
@@ -261,6 +285,12 @@
   "pixelmon:recipes/decorative/brown_rug": {
     "criteria": {
       "has_wool": "2021-02-07 21:46:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2021-02-09 02:40:01 +0100"
     },
     "done": true
   },
@@ -317,6 +347,7 @@
     "criteria": {
       "cooked_mutton": "2021-02-08 00:18:17 +0100",
       "cooked_beef": "2021-02-08 00:22:24 +0100",
+      "apple": "2021-02-09 01:56:13 +0100",
       "spider_eye": "2021-02-08 03:09:10 +0100",
       "bread": "2021-02-07 20:18:41 +0100",
       "rotten_flesh": "2021-02-08 02:40:09 +0100",
@@ -529,6 +560,18 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/fossil_cleaner": {
+    "criteria": {
+      "has_aluminium_plate": "2021-02-08 18:58:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2021-02-08 20:30:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-07 19:13:34 +0100"
@@ -538,6 +581,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-02-07 21:46:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2021-02-09 01:03:42 +0100"
     },
     "done": true
   },
@@ -751,6 +800,18 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/blue_folding_chair": {
+    "criteria": {
+      "has_wool": "2021-02-09 02:40:01 +0100"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/pc": {
+    "criteria": {
+      "has_aluminium_plate": "2021-02-08 18:58:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2021-02-07 20:26:57 +0100"
@@ -805,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-02-08 21:47:32 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/white_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-02-08 02:12:48 +0100"
@@ -856,13 +923,20 @@
   },
   "pixelmon:recipes/lures/lure_type_weak": {
     "criteria": {
+      "has_leppa": "2021-02-08 19:39:33 +0100",
       "has_case_recipe": "2021-02-08 18:14:24 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-07 19:13:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2021-02-08 19:08:33 +0100"
     },
     "done": true
   },
@@ -903,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-02-08 20:30:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2021-02-08 17:14:25 +0100"
@@ -918,6 +998,12 @@
   "pixelmon:recipes/decorative/pink_umbrella": {
     "criteria": {
       "has_wool": "2021-02-07 21:46:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-02-08 19:40:06 +0100"
     },
     "done": true
   },
@@ -1036,6 +1122,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2021-02-08 19:39:50 +0100"
+    },
+    "done": true
+  },
+  "pixelmon:balls/great_ball_capture": {
+    "criteria": {
+      "great_ball_capture": "2021-02-08 20:14:54 +0100"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_strong": {
+    "criteria": {
+      "has_starf": "2021-02-09 01:20:42 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-02-07 21:46:10 +0100"
@@ -1111,6 +1215,12 @@
   "pixelmon:recipes/decorative/black_umbrella": {
     "criteria": {
       "has_wool": "2021-02-07 21:46:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-02-09 02:38:33 +0100"
     },
     "done": true
   },
@@ -1234,6 +1344,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/ranch": {
+    "criteria": {
+      "has_the_recipe": "2021-02-08 19:10:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-02-08 17:49:56 +0100"
@@ -1294,6 +1410,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/lures/lure_shiny_strong": {
+    "criteria": {
+      "has_starf": "2021-02-09 01:20:42 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-02-07 20:08:24 +0100"
@@ -1335,10 +1457,15 @@
       "forest": "2021-02-08 00:03:49 +0100",
       "swampland": "2021-02-07 20:12:36 +0100",
       "birch_forest": "2021-02-07 19:28:09 +0100",
+      "deep_ocean": "2021-02-09 01:57:56 +0100",
+      "beaches": "2021-02-09 01:51:33 +0100",
       "mesa": "2021-02-07 18:07:27 +0100",
+      "forest_hills": "2021-02-09 01:17:09 +0100",
       "plains": "2021-02-07 19:13:34 +0100",
       "mesa_clear_rock": "2021-02-08 17:07:22 +0100",
       "birch_forest_hills": "2021-02-07 19:30:51 +0100",
+      "ocean": "2021-02-09 01:58:08 +0100",
+      "roofed_forest": "2021-02-09 01:48:21 +0100",
       "river": "2021-02-07 18:05:26 +0100",
       "desert": "2021-02-07 20:35:06 +0100"
     },
@@ -1371,6 +1498,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-02-08 17:03:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2021-02-08 21:47:28 +0100"
     },
     "done": true
   },
@@ -1441,6 +1574,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-08 21:47:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-08 21:47:32 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/purple_cushion_chair": {
     "criteria": {
       "has_wool": "2021-02-07 21:46:10 +0100"
@@ -1474,6 +1619,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-02-07 21:46:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2021-02-08 19:08:33 +0100"
     },
     "done": true
   },
@@ -1588,6 +1739,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2021-02-08 01:05:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2021-02-09 02:40:01 +0100"
     },
     "done": true
   },

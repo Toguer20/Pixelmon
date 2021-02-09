@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2021-02-09 01:21:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2021-02-07 22:54:01 +0100"
@@ -277,6 +283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2021-02-09 00:06:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-02-07 18:07:37 +0100"
@@ -355,6 +367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2021-02-09 01:21:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-02-07 21:24:56 +0100"
@@ -367,9 +385,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-02-09 00:52:23 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-02-07 22:04:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-02-09 01:30:14 +0100"
     },
     "done": true
   },
@@ -569,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2021-02-09 01:30:14 +0100"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/green_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-02-07 22:04:37 +0100"
@@ -653,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2021-02-09 01:21:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-07 21:00:33 +0100"
@@ -701,6 +743,12 @@
     },
     "done": true
   },
+  "pixelmon:specs/shiny_spec_trigger": {
+    "criteria": {
+      "shiny_spec_trigger": "2021-02-09 00:01:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-02-07 19:56:46 +0100"
@@ -725,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2021-02-09 01:21:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-02-07 19:25:30 +0100"
@@ -740,6 +794,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-02-07 19:50:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-02-09 00:52:23 +0100"
     },
     "done": true
   },
@@ -854,6 +914,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-07 21:00:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-02-09 01:30:14 +0100"
     },
     "done": true
   },
@@ -1023,6 +1089,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-07 19:22:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-02-09 00:05:33 +0100"
     },
     "done": true
   },
@@ -1309,6 +1381,12 @@
     "criteria": {
       "has_the_recipe": "2021-02-07 22:04:37 +0100",
       "has_fresh_water": "2021-02-07 22:04:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-02-09 01:30:14 +0100"
     },
     "done": true
   },
@@ -1756,6 +1834,12 @@
     },
     "done": false
   },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "shiny_spec_trigger": "2021-02-09 00:01:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-02-07 20:11:31 +0100"
@@ -1780,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2021-02-09 01:21:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2021-02-07 19:24:53 +0100"
@@ -1789,6 +1879,12 @@
   "pixelmon:balls/ultra_ball_capture": {
     "criteria": {
       "ultra_ball_capture": "2021-02-08 12:21:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2021-02-09 01:30:14 +0100"
     },
     "done": true
   },
@@ -1986,6 +2082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2021-02-09 01:21:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-02-07 19:56:46 +0100"
@@ -2106,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2021-02-09 01:30:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-02-08 11:49:45 +0100"
@@ -2200,6 +2308,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2021-02-07 21:46:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2021-02-09 01:30:54 +0100"
     },
     "done": true
   }
